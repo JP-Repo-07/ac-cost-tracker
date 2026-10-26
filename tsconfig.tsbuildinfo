@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/calculator.tsx","./src/tracker.tsx","./src/main.tsx","./src/calculations/consumption.ts","./src/calculations/usage.ts","./src/storage/backup.ts","./src/storage/usagestorage.ts","./src/types/aircon.ts","./src/types/usage.ts"],"version":"5.8.3"}

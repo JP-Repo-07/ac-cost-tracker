@@ -1,0 +1,1 @@
+export type AirconModel = { id: string; brand: string; model: string; type: 'split' | 'window' | 'unknown'; compressor: 'inverter' | 'non-inverter' | 'unknown'; ratedPowerWatts: number; coolingCapacityKw: number | null; cspf: number | null; doeMonthlyKwh: number | null; sourceUrl: string; sourceLabel: string; notes: string };
